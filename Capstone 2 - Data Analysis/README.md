@@ -48,7 +48,7 @@ Problems & Objectives:
 - **Analysis & Manipulation:** pandas & SciPy  
 - **Visualization:** Matplotlib, Seaborn  
 - **Interactive Dashboard:** [Tableau](https://public.tableau.com/views/NewYorkTLCTripAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-  *Note: For the best experience, please download and open the dashboard in Tableau Desktop, as the Tableau Public preview does not match the original sheet size.*
+  (*Note: For the best experience, please download and open the dashboard in Tableau Desktop, as the Tableau Public preview does not match the original sheet size.*)
 - **Development Environment:** Jupyter Notebook
 
 ## Summary of Finding
