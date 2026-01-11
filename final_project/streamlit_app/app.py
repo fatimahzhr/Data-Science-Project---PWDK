@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 import pickle
 import pandas as pd
 from datetime import date
@@ -6,7 +7,10 @@ from datetime import date
 # ======================
 # LOAD MODEL
 # ======================
-with open("Hotel Booking Prediction.sav", "rb") as file:
+BASE_DIR = os.path.dirname(__file__)
+MODEL_PATH = os.path.join(BASE_DIR, "Hotel Booking Prediction.sav")
+
+with open(MODEL_PATH, "rb") as file:
     model = pickle.load(file)
 
 st.set_page_config(page_title="Hotel Cancellation Prediction", layout="wide")
