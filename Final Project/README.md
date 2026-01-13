@@ -5,8 +5,9 @@ City hotel dan resort hotel kerap mengalami pembatalan (cancellation) dari pelan
 
 Target:
 
-0: Tidak Batal
-1: Batal
+- 0: Tidak Batal
+- 1: Batal
+
 Stakeholder: Management Hotel
 
 ### Problem Statement
@@ -104,3 +105,9 @@ Classification report tersebut menunjukkan bahwa dengan model XGBoost yang telah
 
 ### 6. Model Interpretability
 Untuk memahami kontribusi setiap fitur terhadap prediksi, dilakukan analisis feature importance menggunakan SHAP (SHapley Additive exPlanations). Analisis ini membantu menjelaskan faktor-faktor utama yang memengaruhi keputusan model serta meningkatkan transparansi dan kepercayaan terhadap hasil prediksi.
+
+---
+Alpha Group:
+- Fatimah Zahra
+- Lutfi Aryadi Sukmono
+- Diandra Ayasa Anandipa
