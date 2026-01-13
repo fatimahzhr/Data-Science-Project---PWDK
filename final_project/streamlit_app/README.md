@@ -102,5 +102,5 @@ Berdasarkan hasil evaluasi menyeluruh, XGBoost dipilih sebagai final model karen
 
 Classification report tersebut menunjukkan bahwa dengan model XGBoost yang telah di tuning. Model dapat mendeteksi sebagian besar pelanggan yang akan cancel (recall = 85%).
 
-### 6. Feature Importances
+### 6. Model Interpretability
 Untuk memahami kontribusi setiap fitur terhadap prediksi, dilakukan analisis feature importance menggunakan SHAP (SHapley Additive exPlanations). Analisis ini membantu menjelaskan faktor-faktor utama yang memengaruhi keputusan model serta meningkatkan transparansi dan kepercayaan terhadap hasil prediksi.
