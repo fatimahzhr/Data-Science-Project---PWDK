@@ -1,4 +1,4 @@
-# Capstone Module 2 - New York TLC Trip Analysis
+t# Capstone Module 2 - New York TLC Trip Analysis
 
 ## Project Overview
 Taxis are a major mode of commuting in New York City, and the TLC trip dataset provides detailed records of taxi rides. Analyzing this data helps understand travel demand, commuting behavior, and operational variations, which is valuable for the New York City Taxi and Limousine Commission (TLC) in regulating taxis and overseeing vendors. 
@@ -66,5 +66,7 @@ Problems & Objectives:
 - Congestion Management: Apply stronger surcharges in Manhattan during morning/afternoon (esp. East Harlem, Upper East Side). Extend evening surcharges to Queens/Brooklyn and morning adjustments in the Bronx.
 - Vendor Performance: Encourage Vendor 1 to reduce disputes, minimize delays, and expand beyond Manhattan. Maintain and support Vendor 2’s reliable coverage, especially for airports and outer-borough trips.
 
-## Contact
+## Other
+Tableau : https://public.tableau.com/app/profile/fatimah.zahra3901/viz/NewYorkTLCTripAnalysis/Dashboard
 Linkedin: https://www.linkedin.com/in/fatimahzhra
+
