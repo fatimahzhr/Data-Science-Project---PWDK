@@ -67,6 +67,6 @@ Problems & Objectives:
 - Vendor Performance: Encourage Vendor 1 to reduce disputes, minimize delays, and expand beyond Manhattan. Maintain and support Vendor 2’s reliable coverage, especially for airports and outer-borough trips.
 
 ## Other
-Tableau : https://public.tableau.com/app/profile/fatimah.zahra3901/viz/NewYorkTLCTripAnalysis/Dashboard
-Linkedin: https://www.linkedin.com/in/fatimahzhra
+- Tableau Dashboard: https://public.tableau.com/app/profile/fatimah.zahra3901/viz/NewYorkTLCTripAnalysis/Dashboard
+- Linkedin: https://www.linkedin.com/in/fatimahzhra
 
